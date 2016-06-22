@@ -27,6 +27,14 @@ h3.feat {
 
 p.main{
   padding-top: 10px;
+  font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+    
+}
+
+p.proto{
+  padding-top: 10px;
   font-size: 32px;
     font-family: 'Montserrat', sans-serif;
     padding-bottom: 10px;
